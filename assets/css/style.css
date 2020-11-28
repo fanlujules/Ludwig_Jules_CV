@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.png") left;
+  background: url("../img/Neptune.png") left;
   background-size: cover;
 }
 
@@ -257,6 +257,23 @@ h1, h2, h3, h4, h5, h6 {
   min-width: 300px;
 }
 
+#hero .paint-message {
+  position: absolute;
+  bottom: -0;
+}
+
+#hero .paint-message .paint{
+  color: #fff;
+}
+
+#hero .paint-message .paint a {
+  transition: display 0.5s ease-in-out;
+}
+
+#hero .paint-message .paint a:hover {
+  color: #600080;
+}
+
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 64px;
@@ -266,14 +283,15 @@ h1, h2, h3, h4, h5, h6 {
   /*the main Jean ek;pf name in */
 }
 
-#hero p {
+
+#hero .main {
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
-#hero p span {
+#hero .main span {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
@@ -725,6 +743,52 @@ section {
 .contact .email i {
   color: #D0C2FF;
 }
+
+
+
+#final{
+  width: 100%;
+  height: 50vh;
+  background: url("../img/mountain_cut.jpg") left;
+  background-size: cover;
+}
+
+#final .final-container {
+  position: relative;
+  z-index: 2;
+  min-width: 300px;
+}
+
+#final h1 {
+  margin: 0 0 10px 0;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #600080;
+  /*the main Jean ek;pf name in */
+}
+
+#final .final-message {
+  position: relative;
+  bottom: -240px;
+  left: -515px;
+}
+
+/*#final .final-message {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+}*/
+
+/*#final .final-message {
+    position:relative;
+}
+#final .final-message .paint {
+    position:absolute;
+    bottom:0;
+    left:0;
+}*/
 
 /*--------------------------------------------------------------
 # Portfolio Details
