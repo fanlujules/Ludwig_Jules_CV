@@ -378,8 +378,6 @@ section {
   padding: 0;
 }
 
-.about .
-
 .about .content ul li {
   padding-bottom: 10px;
 }
@@ -770,8 +768,8 @@ section {
 
 #final .final-message {
   position: relative;
-  bottom: -240px;
-  left: -515px;
+  bottom: -60%;
+  left: -33%;
 }
 
 /*#final .final-message {
