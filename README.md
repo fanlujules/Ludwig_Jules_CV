@@ -4,7 +4,7 @@ My personal Webpage/Resume/CV in [Bootstrap](http://getbootstrap.com/) using the
 
 ## Hosted with love on GitHub
 
-<a href="https://fanlujule.github.io/Ludwig_Jules_CV/" target="_blank">Here</a>
+<a href="https://fanlujules.github.io/Ludwig_Jules_CV/" target="_blank">Here</a>
 
 <a href="https://jeankpf.github.io/personal-website/" target="_blank">Here</a>                                                                       
                                                                        
